@@ -1,0 +1,2 @@
+# Compatible con Python 3.8.6 en Windows 7
+pyodbc==4.0.39

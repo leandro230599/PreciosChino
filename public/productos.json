@@ -1,0 +1,98 @@
+[
+  {
+    "GBarcode": "7790895000997",
+    "GNameX": "Coca-Cola Sabor Original 2.25 L",
+    "GNameC": "Gaseosas",
+    "GSalePrice": 3450.0,
+    "GUpdateTime": "2026-03-10T10:15:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790895001123",
+    "GNameX": "Sprite Lima-Limón 2.25 L",
+    "GNameC": "Gaseosas",
+    "GSalePrice": 3300.0,
+    "GUpdateTime": "2026-03-12T11:20:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7791813420102",
+    "GNameX": "Pepsi Black Sin Azúcar 2 L",
+    "GNameC": "Gaseosas",
+    "GSalePrice": 2890.5,
+    "GUpdateTime": "2026-04-02T09:05:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790314002156",
+    "GNameX": "Vino Rutini Cabernet Malbec 750 ml",
+    "GNameC": "Vinos",
+    "GSalePrice": 18500.0,
+    "GUpdateTime": "2026-02-18T16:40:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790570014201",
+    "GNameX": "Vino Trapiche Reserva Malbec 750 ml",
+    "GNameC": "Vinos",
+    "GSalePrice": 7950.0,
+    "GUpdateTime": "2026-05-04T14:12:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790975000451",
+    "GNameX": "Vino Toro Clásico Tinto Tetra 1 L",
+    "GNameC": "Vinos",
+    "GSalePrice": 2150.0,
+    "GUpdateTime": "2026-01-22T08:30:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790315000428",
+    "GNameX": "Agua Mineral Villavicencio Sin Gas 2 L",
+    "GNameC": "Aguas",
+    "GSalePrice": 1650.0,
+    "GUpdateTime": "2026-03-28T13:00:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790315000510",
+    "GNameX": "Agua Mineral Eco de los Andes 1.5 L",
+    "GNameC": "Aguas",
+    "GSalePrice": 1490.0,
+    "GUpdateTime": "2026-04-15T12:10:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790895067532",
+    "GNameX": "Agua Saborizada Aquarius Pera 1.5 L",
+    "GNameC": "Aguas saborizadas",
+    "GSalePrice": 2190.0,
+    "GUpdateTime": "2026-05-01T17:45:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790315002842",
+    "GNameX": "Agua Saborizada Levité Pomelo 2.25 L",
+    "GNameC": "Aguas saborizadas",
+    "GSalePrice": 2650.0,
+    "GUpdateTime": "2026-05-02T10:00:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790070411716",
+    "GNameX": "Yerba Mate Taragüi Con Palo 1 kg",
+    "GNameC": "",
+    "GSalePrice": 4600.0,
+    "GUpdateTime": "2026-04-20T15:30:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790580123456",
+    "GNameX": "Fideos Matarazzo Tirabuzón 500 g",
+    "GNameC": "Almacén",
+    "GSalePrice": 1580.0,
+    "GUpdateTime": "2026-04-25T18:10:00",
+    "Foto": ""
+  }
+]
