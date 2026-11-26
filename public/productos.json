@@ -436,7 +436,7 @@
     "GNameX": "AGUA SABORIZADA AQUARIUS 6X1.5L",
     "GNameC": "SABORIZADO",
     "GSalePrice": 14500.0,
-    "GUpdateTime": "2026-09-10T09:47:37",
+    "GUpdateTime": "2026-11-25T11:44:46",
     "Foto": ""
   },
   {
@@ -451,8 +451,8 @@
     "GBarcode": "9311037",
     "GNameX": "AGUA SABORIZADO AQUARIUS 6X2.25L",
     "GNameC": "SABORIZADO",
-    "GSalePrice": 17500.0,
-    "GUpdateTime": "2026-10-01T15:02:34",
+    "GSalePrice": 18000.0,
+    "GUpdateTime": "2026-11-25T11:45:05",
     "Foto": ""
   },
   {
@@ -787,24 +787,16 @@
     "GBarcode": "9317005",
     "GNameX": "ALCAZAR VINAGRE ALCOHOL 12X1L",
     "GNameC": "",
-    "GSalePrice": 13000.0,
-    "GUpdateTime": "2026-01-19T13:52:59",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "1002",
-    "GNameX": "ALCAZAR VINAGRE ALCOHOL 12X1L",
-    "GNameC": "",
-    "GSalePrice": 11000.0,
-    "GUpdateTime": "2026-08-10T10:27:03",
+    "GSalePrice": 15600.0,
+    "GUpdateTime": "2026-11-25T11:54:44",
     "Foto": ""
   },
   {
     "GBarcode": "10013001",
     "GNameX": "ALCAZAR VINAGRE ALCOHOL 12X500ML",
     "GNameC": "",
-    "GSalePrice": 8900.0,
-    "GUpdateTime": "2026-01-19T13:52:42",
+    "GSalePrice": 9500.0,
+    "GUpdateTime": "2026-11-25T11:55:02",
     "Foto": ""
   },
   {
@@ -1715,8 +1707,8 @@
     "GBarcode": "7790040143364",
     "GNameX": "ARCOR DIVERSION 398 GR",
     "GNameC": "",
-    "GSalePrice": 2100.0,
-    "GUpdateTime": "2026-03-28T14:30:19",
+    "GSalePrice": 2600.0,
+    "GUpdateTime": "2026-11-25T10:06:24",
     "Foto": ""
   },
   {
@@ -2160,6 +2152,22 @@
     "Foto": ""
   },
   {
+    "GBarcode": "7790748266167",
+    "GNameX": "ATUN PUGLISI ACEITE 170G",
+    "GNameC": "",
+    "GSalePrice": 4000.0,
+    "GUpdateTime": "2026-11-25T10:58:59",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790748266204",
+    "GNameX": "ATUN PUGLISI NATURAL 170G",
+    "GNameC": "",
+    "GSalePrice": 4000.0,
+    "GUpdateTime": "2026-11-25T10:59:05",
+    "Foto": ""
+  },
+  {
     "GBarcode": "9314077",
     "GNameX": "AXIS VODKA /GIN TONIC/FERNET COLA 6X900ML",
     "GNameC": "",
@@ -2392,62 +2400,6 @@
     "Foto": ""
   },
   {
-    "GBarcode": "7790040143531",
-    "GNameX": "BAGLEY AMOR 110G",
-    "GNameC": "",
-    "GSalePrice": 1200.0,
-    "GUpdateTime": "2026-05-22T11:12:06",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040136250",
-    "GNameX": "BAGLEY CEREALES SALVADO 169G",
-    "GNameC": "",
-    "GSalePrice": 1450.0,
-    "GUpdateTime": "2026-01-14T11:39:26",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040136243",
-    "GNameX": "BAGLEY CEREALES SALVADO 507G",
-    "GNameC": "",
-    "GSalePrice": 3880.0,
-    "GUpdateTime": "2026-01-14T11:39:30",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040139770",
-    "GNameX": "BAGLEY MELITAS 159G",
-    "GNameC": "",
-    "GSalePrice": 1250.0,
-    "GUpdateTime": "2026-01-14T15:47:03",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040143548",
-    "GNameX": "BAGLEY MELLIZAS 110G",
-    "GNameC": "",
-    "GSalePrice": 1200.0,
-    "GUpdateTime": "2026-05-22T11:12:15",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040139657",
-    "GNameX": "BAGLEY MERENGADAS 88G",
-    "GNameC": "",
-    "GSalePrice": 1400.0,
-    "GUpdateTime": "2026-01-14T15:46:00",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040008175",
-    "GNameX": "BAGLEY OPERA 220G",
-    "GNameC": "",
-    "GSalePrice": 2300.0,
-    "GUpdateTime": "2026-09-09T11:54:08",
-    "Foto": ""
-  },
-  {
     "GBarcode": "77903518",
     "GNameX": "BAGLEY OPERA 92G",
     "GNameC": "",
@@ -2461,14 +2413,6 @@
     "GNameC": "",
     "GSalePrice": 2050.0,
     "GUpdateTime": "2026-01-14T11:35:22",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040139268",
-    "GNameX": "BAGLEY RUMBA 108G",
-    "GNameC": "",
-    "GSalePrice": 1400.0,
-    "GUpdateTime": "2026-01-14T15:45:29",
     "Foto": ""
   },
   {
@@ -5507,8 +5451,8 @@
     "GBarcode": "7791290795587",
     "GNameX": "CIF EXPERT ANTIGRASA DP 450ML",
     "GNameC": "",
-    "GSalePrice": 1800.0,
-    "GUpdateTime": "2026-05-12T13:10:22",
+    "GSalePrice": 1900.0,
+    "GUpdateTime": "2026-11-25T11:38:40",
     "Foto": ""
   },
   {
@@ -6931,8 +6875,8 @@
     "GBarcode": "7798048720952",
     "GNameX": "ELIO SEMOLA 400G",
     "GNameC": "",
-    "GSalePrice": 1300.0,
-    "GUpdateTime": "2026-09-10T09:32:15",
+    "GSalePrice": 1350.0,
+    "GUpdateTime": "2026-11-25T10:42:01",
     "Foto": ""
   },
   {
@@ -7531,24 +7475,24 @@
     "GBarcode": "7798167047923",
     "GNameX": "FERNET 1882 LATA 473ML",
     "GNameC": "",
-    "GSalePrice": 1900.0,
-    "GUpdateTime": "2026-08-01T22:32:07",
+    "GSalePrice": 2100.0,
+    "GUpdateTime": "2026-11-25T11:12:43",
     "Foto": ""
   },
   {
     "GBarcode": "9314002",
     "GNameX": "FERNET 1882 LATA 473MLX24",
     "GNameC": "BAR",
-    "GSalePrice": 36000.0,
-    "GUpdateTime": "2026-08-01T22:31:03",
+    "GSalePrice": 41000.0,
+    "GUpdateTime": "2026-11-25T11:13:25",
     "Foto": ""
   },
   {
     "GBarcode": "9314001",
     "GNameX": "FERNET 1882 LATA 473MLX6",
     "GNameC": "",
-    "GSalePrice": 10000.0,
-    "GUpdateTime": "2026-08-01T22:31:31",
+    "GSalePrice": 10800.0,
+    "GUpdateTime": "2026-11-25T11:32:59",
     "Foto": ""
   },
   {
@@ -8304,59 +8248,11 @@
     "Foto": ""
   },
   {
-    "GBarcode": "0187",
-    "GNameX": "GALL. DIVERSION 21X398G",
-    "GNameC": "",
-    "GSalePrice": 41800.0,
-    "GUpdateTime": "2026-01-14T15:50:09",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "0186",
-    "GNameX": "GALL. SERRANA 16X336G",
-    "GNameC": "",
-    "GSalePrice": 21000.0,
-    "GUpdateTime": "2026-01-14T15:51:05",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "0189",
-    "GNameX": "GALL. SERRANITAS 14X3X105G",
-    "GNameC": "",
-    "GSalePrice": 16900.0,
-    "GUpdateTime": "2026-06-20T08:14:03",
-    "Foto": ""
-  },
-  {
     "GBarcode": "0188",
     "GNameX": "GALL. SURTIDO BAGLEY 21X398G",
     "GNameC": "",
     "GSalePrice": 57000.0,
     "GUpdateTime": "2026-10-24T12:16:21",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "0185",
-    "GNameX": "GALL. TRAVIATA 16X324G",
-    "GNameC": "",
-    "GSalePrice": 22400.0,
-    "GUpdateTime": "2026-01-14T15:55:09",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040139398",
-    "GNameX": "GALLETA BAGLEY CHOCOLINAS 150G",
-    "GNameC": "",
-    "GSalePrice": 1680.0,
-    "GUpdateTime": "2026-01-14T15:43:53",
-    "Foto": ""
-  },
-  {
-    "GBarcode": "7790040139404",
-    "GNameX": "GALLETA BAGLEY CHOCOLINAS 262G",
-    "GNameC": "",
-    "GSalePrice": 2250.0,
-    "GUpdateTime": "2026-01-14T15:43:24",
     "Foto": ""
   },
   {
@@ -8835,8 +8731,8 @@
     "GBarcode": "9311016",
     "GNameX": "GASEOSA COCA ORIG. LATA 6X354ML",
     "GNameC": "GASEOSA",
-    "GSalePrice": 7400.0,
-    "GUpdateTime": "2026-10-07T13:01:19",
+    "GSalePrice": 8000.0,
+    "GUpdateTime": "2026-11-25T11:39:50",
     "Foto": ""
   },
   {
@@ -10843,16 +10739,16 @@
     "GBarcode": "9317043",
     "GNameX": "JUGO ARCOR 18U",
     "GNameC": "",
-    "GSalePrice": 4350.0,
-    "GUpdateTime": "2026-05-16T11:59:48",
+    "GSalePrice": 6000.0,
+    "GUpdateTime": "2026-11-25T10:37:51",
     "Foto": ""
   },
   {
     "GBarcode": "7790580141516",
     "GNameX": "JUGO ARCOR 1U",
     "GNameC": "",
-    "GSalePrice": 300.0,
-    "GUpdateTime": "2026-11-05T14:16:27",
+    "GSalePrice": 380.0,
+    "GUpdateTime": "2026-11-25T10:38:01",
     "Foto": ""
   },
   {
@@ -10933,6 +10829,14 @@
     "GNameC": "JUGO",
     "GSalePrice": 12900.0,
     "GUpdateTime": "2026-11-24T08:14:03",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7790580129620",
+    "GNameX": "JUGO BC 1U",
+    "GNameC": "",
+    "GSalePrice": 380.0,
+    "GUpdateTime": "2026-11-25T10:37:46",
     "Foto": ""
   },
   {
@@ -11101,6 +11005,14 @@
     "GNameC": "",
     "GSalePrice": 8000.0,
     "GUpdateTime": "2026-10-06T11:20:00",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "1076",
+    "GNameX": "JUGO POLVO BC 18U",
+    "GNameC": "",
+    "GSalePrice": 6000.0,
+    "GUpdateTime": "2026-11-25T10:19:20",
     "Foto": ""
   },
   {
@@ -14419,8 +14331,8 @@
     "GBarcode": "9316001",
     "GNameX": "MENOYO VINAGRE ALCOHOL 12X1L",
     "GNameC": "",
-    "GSalePrice": 18500.0,
-    "GUpdateTime": "2026-09-07T14:18:49",
+    "GSalePrice": 19500.0,
+    "GUpdateTime": "2026-11-25T11:53:10",
     "Foto": ""
   },
   {
@@ -14428,7 +14340,7 @@
     "GNameX": "MENOYO VINAGRE ALCOHOL 12X500ML",
     "GNameC": "",
     "GSalePrice": 12500.0,
-    "GUpdateTime": "2026-09-07T14:18:21",
+    "GUpdateTime": "2026-11-25T11:52:46",
     "Foto": ""
   },
   {
@@ -18224,6 +18136,22 @@
     "Foto": ""
   },
   {
+    "GBarcode": "9317116",
+    "GNameX": "SAL ENTREFINA DELICIA 20X500G",
+    "GNameC": "",
+    "GSalePrice": 12000.0,
+    "GUpdateTime": "2026-11-25T11:31:33",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7798422480021",
+    "GNameX": "SAL ENTREFINA DELICIA 500G",
+    "GNameC": "",
+    "GSalePrice": 650.0,
+    "GUpdateTime": "2026-11-25T11:30:08",
+    "Foto": ""
+  },
+  {
     "GBarcode": "7790072002080",
     "GNameX": "SAL FINA CELUSAL ESTUCHE 500G",
     "GNameC": "",
@@ -18259,16 +18187,16 @@
     "GBarcode": "9317003",
     "GNameX": "SAL FINA LA DELICIA 20X500G",
     "GNameC": "",
-    "GSalePrice": 11900.0,
-    "GUpdateTime": "2026-10-21T13:18:05",
+    "GSalePrice": 12500.0,
+    "GUpdateTime": "2026-11-25T11:28:08",
     "Foto": ""
   },
   {
     "GBarcode": "7798422480014",
     "GNameX": "SAL FINA LA DELICIA 500G",
     "GNameC": "",
-    "GSalePrice": 650.0,
-    "GUpdateTime": "2026-08-06T12:36:19",
+    "GSalePrice": 680.0,
+    "GUpdateTime": "2026-11-25T11:27:56",
     "Foto": ""
   },
   {
@@ -18667,16 +18595,16 @@
     "GBarcode": "7790040704909",
     "GNameX": "SERRANAS SANDWICH 336G",
     "GNameC": "",
-    "GSalePrice": 1400.0,
-    "GUpdateTime": "2026-03-25T12:28:14",
+    "GSalePrice": 2100.0,
+    "GUpdateTime": "2026-11-25T10:09:55",
     "Foto": ""
   },
   {
     "GBarcode": "7790040143616",
     "GNameX": "SERRANITAS 315G",
     "GNameC": "",
-    "GSalePrice": 1300.0,
-    "GUpdateTime": "2026-06-20T08:14:32",
+    "GSalePrice": 1800.0,
+    "GUpdateTime": "2026-11-25T10:08:57",
     "Foto": ""
   },
   {
@@ -19396,7 +19324,7 @@
     "GNameX": "SURTIDO BAGLEY 400G",
     "GNameC": "",
     "GSalePrice": 2900.0,
-    "GUpdateTime": "2026-10-24T12:15:48",
+    "GUpdateTime": "2026-11-25T10:05:20",
     "Foto": ""
   },
   {
@@ -20291,8 +20219,8 @@
     "GBarcode": "7790040144088",
     "GNameX": "TRAVIATA ORIGINAL 324G",
     "GNameC": "",
-    "GSalePrice": 1850.0,
-    "GUpdateTime": "2026-10-02T10:15:12",
+    "GSalePrice": 2000.0,
+    "GUpdateTime": "2026-11-25T10:08:08",
     "Foto": ""
   },
   {
@@ -21107,8 +21035,8 @@
     "GBarcode": "7790168904656",
     "GNameX": "VINO COLON FRUTOS ROJOS 6X750ML",
     "GNameC": "",
-    "GSalePrice": 51000.0,
-    "GUpdateTime": "2026-10-31T10:06:34",
+    "GSalePrice": 54000.0,
+    "GUpdateTime": "2026-11-25T11:35:24",
     "Foto": ""
   },
   {
@@ -21339,16 +21267,16 @@
     "GBarcode": "37790314080204",
     "GNameX": "VINO ESTANCIA MENDOZA CHENIN DULCE 6X750ML",
     "GNameC": "",
-    "GSalePrice": 14300.0,
-    "GUpdateTime": "2026-08-31T18:46:32",
+    "GSalePrice": 14600.0,
+    "GUpdateTime": "2026-11-25T11:36:43",
     "Foto": ""
   },
   {
     "GBarcode": "7790314006050",
     "GNameX": "VINO ESTANCIA MENDOZA MALBEC 6X750ML",
     "GNameC": "VINO",
-    "GSalePrice": 14300.0,
-    "GUpdateTime": "2026-08-31T18:42:19",
+    "GSalePrice": 14600.0,
+    "GUpdateTime": "2026-11-25T11:36:53",
     "Foto": ""
   },
   {
