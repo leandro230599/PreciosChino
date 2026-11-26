@@ -459,8 +459,8 @@
     "GBarcode": "9311038",
     "GNameX": "AGUA SABORIZADO FRESH SABOR 6X1.5L",
     "GNameC": "SABORIZADO",
-    "GSalePrice": 7100.0,
-    "GUpdateTime": "2026-11-24T08:17:17",
+    "GSalePrice": 7200.0,
+    "GUpdateTime": "2026-11-26T08:41:08",
     "Foto": ""
   },
   {
@@ -1588,7 +1588,7 @@
     "GNameX": "APERIT. GANCIA 950ML",
     "GNameC": "",
     "GSalePrice": 7000.0,
-    "GUpdateTime": "2026-11-19T08:08:07",
+    "GUpdateTime": "2026-11-26T11:49:16",
     "Foto": ""
   },
   {
@@ -2331,8 +2331,8 @@
     "GBarcode": "9311052",
     "GNameX": "BAGGIO FRESH  LIVIANA 6X1.5L",
     "GNameC": "SABORIZADO",
-    "GSalePrice": 7100.0,
-    "GUpdateTime": "2026-11-24T08:36:17",
+    "GSalePrice": 7200.0,
+    "GUpdateTime": "2026-11-26T08:41:17",
     "Foto": ""
   },
   {
@@ -2963,8 +2963,8 @@
     "GBarcode": "9313035",
     "GNameX": "BOTELLON SANTA FILOMENA PATERO TINTO 6X1125ML",
     "GNameC": "VINO",
-    "GSalePrice": 14300.0,
-    "GUpdateTime": "2026-08-31T18:58:34",
+    "GSalePrice": 15600.0,
+    "GUpdateTime": "2026-11-26T09:19:19",
     "Foto": ""
   },
   {
@@ -3117,6 +3117,14 @@
     "GNameC": "",
     "GSalePrice": 1300.0,
     "GUpdateTime": "2026-09-17T11:49:01",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7792798013357",
+    "GNameX": "BUDWEISER LATON 710ML",
+    "GNameC": "",
+    "GSalePrice": 3000.0,
+    "GUpdateTime": "2026-11-25T15:02:55",
     "Foto": ""
   },
   {
@@ -4099,16 +4107,16 @@
     "GBarcode": "9312048",
     "GNameX": "CERVEZA BUDWEISER LATON 16X710ML",
     "GNameC": "CERVEZA",
-    "GSalePrice": 40000.0,
-    "GUpdateTime": "2026-08-13T12:49:24",
+    "GSalePrice": 41000.0,
+    "GUpdateTime": "2026-11-25T15:01:52",
     "Foto": ""
   },
   {
     "GBarcode": "9312049",
     "GNameX": "CERVEZA BUDWEISER LATON 4X710ML",
     "GNameC": "",
-    "GSalePrice": 10700.0,
-    "GUpdateTime": "2026-08-13T13:06:47",
+    "GSalePrice": 10800.0,
+    "GUpdateTime": "2026-11-25T15:02:09",
     "Foto": ""
   },
   {
@@ -4131,8 +4139,8 @@
     "GBarcode": "9312014",
     "GNameX": "CERVEZA CORONA 24X330ML",
     "GNameC": "CERVEZA",
-    "GSalePrice": 62000.0,
-    "GUpdateTime": "2026-09-11T12:48:30",
+    "GSalePrice": 63000.0,
+    "GUpdateTime": "2026-11-26T11:58:39",
     "Foto": ""
   },
   {
@@ -7459,8 +7467,8 @@
     "GBarcode": "9314017",
     "GNameX": "FERNET 1882 6X750ML",
     "GNameC": "BAR",
-    "GSalePrice": 38000.0,
-    "GUpdateTime": "2026-10-27T11:18:44",
+    "GSalePrice": 41000.0,
+    "GUpdateTime": "2026-11-26T08:45:20",
     "Foto": ""
   },
   {
@@ -7728,11 +7736,51 @@
     "Foto": ""
   },
   {
+    "GBarcode": "7792180004956",
+    "GNameX": "FIDEO SAN AGUSTIN MOSTACHOL 500G",
+    "GNameC": "",
+    "GSalePrice": 800.0,
+    "GUpdateTime": "2026-11-25T13:42:02",
+    "Foto": ""
+  },
+  {
     "GBarcode": "9317122",
     "GNameX": "FIDEO SAN AGUSTIN QUISERO 12X500G",
     "GNameC": "",
     "GSalePrice": 7800.0,
     "GUpdateTime": "2026-11-21T11:10:46",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7792180005052",
+    "GNameX": "FIDEO SAN AGUSTIN RIGATTI 500G",
+    "GNameC": "",
+    "GSalePrice": 800.0,
+    "GUpdateTime": "2026-11-25T13:41:13",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7792180143495",
+    "GNameX": "FIDEO SAN AGUSTIN SPAGHETTI 500G",
+    "GNameC": "",
+    "GSalePrice": 800.0,
+    "GUpdateTime": "2026-11-25T13:40:36",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7792180143501",
+    "GNameX": "FIDEO SAN AGUSTIN TALLARIN 500G",
+    "GNameC": "",
+    "GSalePrice": 800.0,
+    "GUpdateTime": "2026-11-25T13:44:01",
+    "Foto": ""
+  },
+  {
+    "GBarcode": "7792180004949",
+    "GNameX": "FIDEO SAN AGUSTIN TIRABUZON 500G",
+    "GNameC": "",
+    "GSalePrice": 800.0,
+    "GUpdateTime": "2026-11-25T13:43:26",
     "Foto": ""
   },
   {
@@ -8595,8 +8643,8 @@
     "GBarcode": "9311023",
     "GNameX": "GASEOSA  MANAOS SABORES 6X2.25L",
     "GNameC": "",
-    "GSalePrice": 8350.0,
-    "GUpdateTime": "2026-11-19T12:56:34",
+    "GSalePrice": 8500.0,
+    "GUpdateTime": "2026-11-26T10:44:49",
     "Foto": ""
   },
   {
@@ -10827,8 +10875,8 @@
     "GBarcode": "9311040",
     "GNameX": "JUGO BAGGIO PRONTO TETRA SABORES 8X1L",
     "GNameC": "JUGO",
-    "GSalePrice": 12900.0,
-    "GUpdateTime": "2026-11-24T08:14:03",
+    "GSalePrice": 13000.0,
+    "GUpdateTime": "2026-11-26T08:48:20",
     "Foto": ""
   },
   {
@@ -21035,8 +21083,8 @@
     "GBarcode": "7790168904656",
     "GNameX": "VINO COLON FRUTOS ROJOS 6X750ML",
     "GNameC": "",
-    "GSalePrice": 54000.0,
-    "GUpdateTime": "2026-11-25T11:35:24",
+    "GSalePrice": 53000.0,
+    "GUpdateTime": "2026-11-26T08:41:32",
     "Foto": ""
   },
   {
@@ -22019,8 +22067,8 @@
     "GBarcode": "9314014",
     "GNameX": "VODKA DR LEMON ORIG. BOTELLA 12X1L",
     "GNameC": "",
-    "GSalePrice": 34500.0,
-    "GUpdateTime": "2026-07-05T13:30:42",
+    "GSalePrice": 36000.0,
+    "GUpdateTime": "2026-11-26T11:48:03",
     "Foto": ""
   },
   {
